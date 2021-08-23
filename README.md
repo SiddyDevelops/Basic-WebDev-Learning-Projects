@@ -5,11 +5,6 @@ An repository containing the project and websites I developed while learning Web
 ## TinDog
 TinDog is a design of imaginary webisite which provides a platform for dogs to date. (Parody of 'Tinder')
 
-
----
-
-
-
 ## DiceGame
 
 
