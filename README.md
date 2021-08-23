@@ -6,10 +6,7 @@ An repository containing the project and websites I developed while learning Web
 TinDog is a design of imaginary webisite which provides a platform for dogs to date. (Parody of 'Tinder')
 
 ## DiceGame
-
-
-
----
+DiceGame is a two player online webGame in which one of the player wins his/her's dice face number is greater than the other player dice's face number. The game is reasted as soon as webpage is refreshed.
 
 
 
