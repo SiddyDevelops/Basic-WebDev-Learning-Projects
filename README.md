@@ -2,7 +2,7 @@
 An repository containing the project and websites I developed while learning Web Development.
 
 
-##TinDog
+## TinDog
 
 
 
@@ -10,7 +10,7 @@ An repository containing the project and websites I developed while learning Web
 
 
 
-##DiceGame
+## DiceGame
 
 
 
@@ -18,7 +18,7 @@ An repository containing the project and websites I developed while learning Web
 
 
 
-##DrumKit
+## DrumKit
 
 
 ---
