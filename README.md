@@ -15,7 +15,10 @@ DrumKit is another way to create local and temporary drum effects and sounds. Ju
 Simon Game is a website which tests users memory skills. The website creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails or the time limit runs out, the game is over.
 
 ## TodoList
-A WebApp which allows users to add items in their todolist. User can create new 'topic-lists' by add a new route for eg: 'https://sheltered-caverns-34293.herokuapp.com/Home'. WebApp Link : https://sheltered-caverns-34293.herokuapp.com/
+A WebApp which allows users to add items in their todolist. User can create new 'topic-lists' by add a new route    
+(for eg: 'https://sheltered-caverns-34293.herokuapp.com/Home'). 
+
+WebApp Link : https://sheltered-caverns-34293.herokuapp.com/
 
 ---
 
