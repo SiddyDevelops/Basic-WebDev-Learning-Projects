@@ -23,6 +23,9 @@ WebApp Link : https://sheltered-caverns-34293.herokuapp.com/
 ## Blog-WebApp
 A WebApp that  lets users to read blogs wriiten by admin. The admin can take a different route to edit and add blogs. 
 
+## Secrets
+A WebApp in which users can sign-in/register using google and can read and publish articles, blogs, content secrets anonymously.
+
 ---
 
 Developed By Siddharth Singh. 
