@@ -26,6 +26,9 @@ A WebApp that  lets users to read blogs wriiten by admin. The admin can take a d
 ## Secrets
 A WebApp in which users can sign-in/register using google and can read and publish articles, blogs, content secrets anonymously.
 
+## TodoList-React
+A WebApp which lets users to add and delete notes in a todo list. This app is created using React.
+
 ---
 
 Developed By Siddharth Singh. 
